@@ -1,0 +1,18 @@
+This is the new file to test some git functionlity
+About - Try to push local data to account. that is not configure with git global.
+
+
+Adding Newchange one to this file. For first commit.
+Adding second change due to see something unrelated.
+Third change of this file to check staging process.
+Forth change to this file.
+========
+Change before workingtree restore
+Fifth changes made 
+=======
+Chages made to test restoring working tree. (Checking this line stay or not after restore).
+(This is not worked for the first time because I am checking after move the file to staging area but I have to check it in working tree before adding to staging area.
+(Adding sixth changes)
+Trail -2 
+
+It works this time I have added sixth changes but after I restore it, the sixth item is not here.
