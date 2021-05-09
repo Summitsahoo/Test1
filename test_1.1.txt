@@ -17,3 +17,7 @@ Trail -2
 
 It works this time I have added sixth changes but after I restore it, the sixth item is not here.
 Seventh changes to check in remote issue : - while push with this account it takes as Bhabanishankar-re
+
+"Due to present Shakey in keychain it showing as git push by bhabanishankar-re."
+
+To Remove account
