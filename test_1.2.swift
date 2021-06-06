@@ -10,3 +10,7 @@ struct BusinessTest {
         print("This the new business \(business.name)")
     }
 }
+
+class Human {
+     var brain: Bool
+}
